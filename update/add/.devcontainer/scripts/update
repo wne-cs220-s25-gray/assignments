@@ -8,7 +8,7 @@ do
 done
 PROJ_DIR="$( pwd )"
 
-ASSIGNMENTS_REPO_URL="https://github.com/wne-cs220-s25-jackson/assignments.git"
+ASSIGNMENTS_REPO_URL="https://github.com/wne-cs220-s25-gray/assignments.git"
 ASSIGNMENTS_REPO_DIR="${HOME}/.local/assignments"
 
 main() {
