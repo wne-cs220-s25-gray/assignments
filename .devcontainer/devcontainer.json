@@ -7,7 +7,7 @@
     "customizations": {
         "codespaces": {
             "repositories": {
-                "wne-cs220-s25-jackson-individual/*": {
+                "wne-cs220-s25-gray-individual/*": {
                     "permissions": "write-all"
                 }
             }
